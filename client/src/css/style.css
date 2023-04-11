@@ -8,9 +8,14 @@
   --navbar-height: 50px;
 }
 
-/* To hide the install button after install */
+/* To hide the install button after installion */
 .hidden {
   display: none !important
+}
+
+/* For the editor to take up the full page */
+.CodeMirror {
+  height: 100vh;
 }
 
 body {
