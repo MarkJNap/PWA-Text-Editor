@@ -8,6 +8,11 @@
   --navbar-height: 50px;
 }
 
+/* To hide the install button after install */
+.hidden {
+  display: none !important
+}
+
 body {
   margin: 0;
   background-color: var(--monoaki);
